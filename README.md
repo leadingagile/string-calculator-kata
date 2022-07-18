@@ -6,7 +6,7 @@ This classic kata guides you step by step through the implementation of a calcul
 ### Adding Up to Two Numbers
 
 #### Empty String
-When the calculator is given and empty string, return 0.
+When the calculator is given an empty string, return 0.
 
 #### Return Single Number as a Number
 When the calculator is given a string with a single number, return that number as a Number.
